@@ -1,0 +1,23 @@
+
+.feast{
+    
+    height: 55px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.feast li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+    margin-left: 190px;
+    padding-top: 15px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}

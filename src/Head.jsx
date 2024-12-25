@@ -1,4 +1,5 @@
 import "./Head.css"
+import Slide from "./Slide"
 
 
 
@@ -13,5 +14,6 @@ export default function(){
                 <li><a href="#">Social Links</a></li>
             </nav>
         </div>
+        
     )
 }

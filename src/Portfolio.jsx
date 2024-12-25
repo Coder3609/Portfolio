@@ -1,4 +1,5 @@
 import Head from "./Head"
+import Slide from "./Slide"
 
 
 export default function(){
@@ -6,6 +7,10 @@ export default function(){
         <div>
 
             <Head />
+            <Slide />
+            
+            
+            
             
         </div>
   )
